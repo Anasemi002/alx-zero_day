@@ -1,0 +1,30 @@
+ALX school is so cool >>ALX
+cd ..
+rm -rf js
+git add .
+git commit -m Hot fix 
+git push
+alx 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo '#!/bin/bash' >alx
+echo ALX school is so cool
